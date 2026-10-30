@@ -1,0 +1,25 @@
+hotspot_id,city,state,latitude,longitude,avg_risk_score,risk_level,risk_emoji,historical_accident_count,high_risk_period,peak_day,top_causes,dominant_weather,dominant_traffic_density,dominant_road_type,dominant_visibility,pct_traffic_signal,pct_peak_hour
+Chandigarh - Cluster 3,Chandigarh,Punjab,30.646390873591994,76.83449585106383,45.2,MEDIUM,🟡,799,Evening (5 PM - 9 PM),Sunday,"poor road, weather, drunk driving",fog,high,urban,low,0.47,0.25
+Hyderabad - Cluster 1,Hyderabad,Telangana,17.38638617334778,78.2808014951246,44.9,MEDIUM,🟡,923,Evening (5 PM - 9 PM),Sunday,"drunk driving, distraction, weather",rain,high,rural,low,0.49,0.28
+Pune - Cluster 3,Pune,Maharashtra,18.60871965554072,73.93108642857142,44.6,MEDIUM,🟡,749,Evening (5 PM - 9 PM),Saturday,"distraction, overspeeding, drunk driving",clear,high,rural,low,0.49,0.29
+Kolkata - Cluster 3,Kolkata,West Bengal,22.643112448747154,88.36536089407745,44.5,MEDIUM,🟡,878,Evening (5 PM - 9 PM),Sunday,"overspeeding, weather, poor road",rain,high,rural,low,0.5,0.27
+Chennai - Cluster 1,Chennai,Tamil Nadu,13.00342794369645,80.2090212374541,44.4,MEDIUM,🟡,817,Evening (5 PM - 9 PM),Thursday,"weather, distraction, drunk driving",fog,high,highway,low,0.47,0.26
+Bangalore - Cluster 1,Bangalore,Karnataka,12.987929384357543,77.72156861005587,44.3,MEDIUM,🟡,895,Evening (5 PM - 9 PM),Tuesday,"weather, overspeeding, poor road",rain,low,urban,low,0.51,0.26
+Chandigarh - Cluster 1,Chandigarh,Punjab,30.75268658858502,76.84028583234245,44.2,MEDIUM,🟡,841,Evening (5 PM - 9 PM),Tuesday,"distraction, poor road, overspeeding",rain,low,highway,low,0.51,0.26
+Bangalore - Cluster 3,Bangalore,Karnataka,12.892006611034482,77.52038189793105,44.1,MEDIUM,🟡,725,Evening (5 PM - 9 PM),Saturday,"drunk driving, distraction, weather",clear,low,rural,low,0.5,0.25
+Bangalore - Cluster 2,Bangalore,Karnataka,13.108559630806846,77.53756502933986,44.1,MEDIUM,🟡,818,Evening (5 PM - 9 PM),Tuesday,"overspeeding, drunk driving, distraction",fog,low,highway,low,0.5,0.25
+Delhi - Cluster 3,Delhi,Delhi,28.650670389848813,77.20004357451404,44.1,MEDIUM,🟡,926,Evening (5 PM - 9 PM),Monday,"overspeeding, poor road, drunk driving",clear,high,highway,low,0.5,0.25
+Mumbai - Cluster 1,Mumbai,Maharashtra,19.186722993006992,72.85079147377624,44.0,MEDIUM,🟡,1144,Evening (5 PM - 9 PM),Thursday,"drunk driving, weather, overspeeding",fog,low,highway,low,0.49,0.24
+Chennai - Cluster 2,Chennai,Tamil Nadu,12.86819361926092,80.19703241321389,43.9,MEDIUM,🟡,893,Evening (5 PM - 9 PM),Friday,"overspeeding, weather, drunk driving",rain,high,urban,low,0.47,0.25
+Delhi - Cluster 1,Delhi,Delhi,28.778194549549546,76.94622887387388,43.9,MEDIUM,🟡,777,Evening (5 PM - 9 PM),Thursday,"poor road, distraction, overspeeding",rain,high,highway,low,0.51,0.24
+Pune - Cluster 2,Pune,Maharashtra,18.600126186522264,73.76945584115524,43.8,MEDIUM,🟡,831,Evening (5 PM - 9 PM),Wednesday,"drunk driving, distraction, poor road",clear,high,rural,low,0.53,0.2
+Hyderabad - Cluster 3,Hyderabad,Telangana,17.511135252275682,78.46965008972693,43.6,MEDIUM,🟡,769,Evening (5 PM - 9 PM),Thursday,"distraction, poor road, drunk driving",fog,low,highway,low,0.5,0.22
+Mumbai - Cluster 2,Mumbai,Maharashtra,18.933738422018347,72.92575665290519,43.4,MEDIUM,🟡,654,Evening (5 PM - 9 PM),Friday,"distraction, poor road, weather",rain,low,rural,low,0.51,0.26
+Kolkata - Cluster 2,Kolkata,West Bengal,22.49074915204678,88.42641532748539,43.4,MEDIUM,🟡,855,Evening (5 PM - 9 PM),Friday,"poor road, weather, distraction",clear,low,urban,low,0.5,0.24
+Chandigarh - Cluster 2,Chandigarh,Punjab,30.694618415154746,76.73809219316969,43.3,MEDIUM,🟡,937,Evening (5 PM - 9 PM),Tuesday,"drunk driving, poor road, overspeeding",rain,low,urban,low,0.5,0.26
+Mumbai - Cluster 3,Mumbai,Maharashtra,18.94035180691643,72.77345483717579,43.3,MEDIUM,🟡,694,Evening (5 PM - 9 PM),Monday,"poor road, overspeeding, weather",clear,low,urban,low,0.5,0.23
+Chennai - Cluster 3,Chennai,Tamil Nadu,13.137580796531791,80.19464947514452,43.3,MEDIUM,🟡,865,Evening (5 PM - 9 PM),Saturday,"weather, drunk driving, overspeeding",fog,low,highway,low,0.5,0.25
+Hyderabad - Cluster 2,Hyderabad,Telangana,17.29998909344491,78.48843076150627,43.2,MEDIUM,🟡,717,Evening (5 PM - 9 PM),Monday,"weather, overspeeding, drunk driving",fog,low,urban,low,0.54,0.22
+Kolkata - Cluster 1,Kolkata,West Bengal,22.51257677360775,88.26396269854723,42.6,MEDIUM,🟡,826,Evening (5 PM - 9 PM),Monday,"distraction, overspeeding, poor road",clear,low,urban,low,0.5,0.24
+Pune - Cluster 1,Pune,Maharashtra,18.4609673094984,73.86348851867662,42.6,MEDIUM,🟡,937,Evening (5 PM - 9 PM),Tuesday,"poor road, distraction, drunk driving",rain,low,urban,low,0.52,0.23
+Delhi - Cluster 2,Delhi,Delhi,28.516387761643838,76.95457200136987,42.5,MEDIUM,🟡,730,Evening (5 PM - 9 PM),Saturday,"weather, drunk driving, distraction",clear,low,urban,low,0.5,0.23

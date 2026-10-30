@@ -1,0 +1,10 @@
+{
+  "model_type": "RandomForestRegressor (scikit-learn)",
+  "task_type": "regression",
+  "target": "risk_score_100 (0-100 scale)",
+  "n_train": 16000,
+  "n_test": 4000,
+  "MAE": 5.17,
+  "RMSE": 7.234,
+  "R2": 0.8873
+}
