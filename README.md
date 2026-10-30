@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoadGuard AI — Traffic Safety Intelligence Dashboard
 
 An explainable AI-powered accident risk prediction and hotspot analysis
@@ -292,3 +293,7 @@ Run through this after `streamlit run app.py`:
   (explaining the Random Forest's predictions), and the rule-based
   recommendation engine (not machine-learned) — never lumped together
   as "the AI model."
+=======
+# RoadGuard-AI
+AI-powered road accident risk prediction and hotspot identification system
+>>>>>>> 82b86cf20af5a6c63c8de676421a15ed1a150ee6
